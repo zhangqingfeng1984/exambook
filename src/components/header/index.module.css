@@ -1,0 +1,23 @@
+.appHeader{
+    background-color: #F8C365;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+.appHeader ul {
+    list-style: none;
+}
+.appHeader ul li {
+    display: inline;
+    margin: 0 10px;
+}
+.search input{
+    text-indent: 20px;
+    width: 460px;
+    background-color: transparent;
+    outline: none;
+    border-radius: 5px;
+    height: 35px;
+}
